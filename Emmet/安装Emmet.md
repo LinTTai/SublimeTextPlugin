@@ -7,7 +7,7 @@
 
 ##<font face="宋体">安装步骤
 <font size="4">
-**第一步：下载<font color="#0099ff">sublime_package_control-master.zip</font> ，解压命名文件夹为Package Control。(注意大小写)**
+**第一步：下载<font color="#0099ff">sublime_piackage_control-master.zip</font> ，解压命名文件夹为Package Control。(注意大小写)**
 
 **第二步：下载sublime_package_control-python3.zip，解压后覆盖到刚刚的Package Control中，完成插件API函数的更新。**
 
@@ -15,4 +15,5 @@
 
 ！[](F:\Git\SublimeText_Plugin\Emmet\20160525171605.png)
 **第四步**
+http://www.cnblogs.com/tinyphp/p/3217457.html
 </font>

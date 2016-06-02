@@ -59,7 +59,7 @@
 <br/>
 ul#test>li*4
 <br/>
-按<font color="red">Ctrl+e</font> 生成
+按<font color="red">Ctrl+e 生成
 <br/>
 
 	<ul id="test">

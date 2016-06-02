@@ -26,7 +26,7 @@
 <br/><br/>
 **第六步：使用快捷键**<br/>
 先用快捷键打开命令面板 “ctrl + shift + p”, 再输入 “Format: Javascript” 就可以使用格式化命令
-ctrl+alt+f
+ctrl+alt+f，或者右键选择JsFormat
 </font>
 ---
 
